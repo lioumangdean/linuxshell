@@ -1,4 +1,3 @@
-sudo apt-get update && sudo apt-get upgrade -y
 sudo apt update && sudo apt upgrade -y
 sudo apt install net-tools
 sudo iptables -P INPUT ACCEPT
